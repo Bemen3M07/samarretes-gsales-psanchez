@@ -1,0 +1,18 @@
+Prompt per ChatGPT:
+Escriu una redacció detallada sobre els cicles de vida del desenvolupament del programari:
+1.Cicles de vida del desenvolupament del programari:
+Explica què és un cicle de vida en el desenvolupament de programari.
+Descriu els models més utilitzats com el Waterfall i Agile, destacant les seves diferències.
+Indica quines són les fases habituals en el desenvolupament: anàlisi, disseny, implementació, proves, desplegament i manteniment.
+2.Tipus de proves en el desenvolupament del programari:
+Explica la necessitat de fer proves en cada fase del desenvolupament.
+Defineix i descriu diferents tipus de proves: unitàries, d’integració, funcionals, d’acceptació, de rendiment, etc.
+3.Estratègies i eines per a realitzar proves:
+Explica diferents metodologies de proves, com les proves de caixa blanca i caixa negra.
+Parla sobre les proves automàtiques i la seva importància en el desenvolupament.
+Menciona algunes eines utilitzades en la indústria per realitzar proves, com JUnit, Selenium, etc.
+4.Bones pràctiques i recomanacions:
+Explica per què és important documentar les proves realitzades.
+Dona recomanacions per automatitzar proves i millorar l’eficiència.
+Comenta algunes bones pràctiques per minimitzar errors durant el desenvolupament.
+Escriu el text de manera clara i estructurada, mantenint l’ordre dels apartats i amb explicacions precises per a cada punt.
